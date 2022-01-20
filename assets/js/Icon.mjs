@@ -15,7 +15,7 @@ export let imgIcon = [
     { imgIcon :"https://media.macosicons.com/parse/files/macOSicons/edf280f9b1f5d046fd3593f053f2b49d_low_res_App_Store__iOS_7_.png", link:"https://www.apple.com/befr/?afid=p238%7CsgBdmzvmD-dc_mtid_187079nc38483_pcrid_571007413608_pgrid_12762076735_&cid=aos-be-kwgo-brand--slid--bran-product-",title:"App Store"},
     { imgIcon :"https://media.macosicons.com/parse/files/macOSicons/b7a0f0a361d0f1f725e47f8a603663d5_low_res_Firefox.png", link:"https://www.mozilla.org/fr/firefox/new/", title: "Firefox"},
 
-    { imgIcon :"https://media.macosicons.com/parse/files/macOSicons/db56cc51960b3f5c1b01fe053b6e250f_low_res_waifu2x.png", link:"https://www.wakanim.tv/fr/v2", title: "Manga"},
+    { imgIcon :"https://media.macosicons.com/parse/files/macOSicons/db56cc51960b3f5c1b01fe053b6e250f_low_res_waifu2x.png", link:"https://www.wakanim.tv/fr/v2", title: "Mangas"},
     { imgIcon :"https://media.macosicons.com/parse/files/macOSicons/90c6cf9c9fad9f93d289ba3ccc46f523_low_res_Blender_Alpha__Alt_.png", link:"https://www.commentcamarche.net/telecharger/photo-graphisme/4905-blender/", title: "Blender"},
     { imgIcon :"https://media.macosicons.com/parse/files/macOSicons/c39db976546eb53261670b78003560db_low_res_Terminal.png", link:"index.html", title: "Terminal"},
     { imgIcon :"https://media.macosicons.com/parse/files/macOSicons/be94ac53fed6faaa129fa37533796312_low_res_1618285070693.png", link:"https://discord.com/", title: "Discord"},
